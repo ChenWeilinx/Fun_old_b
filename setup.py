@@ -12,7 +12,7 @@ setuptools.setup(
     description="write for bb",
     long_description=description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gituser/test-tackage",
+    url="https://github.com/ChenWeilinx/Fun_old_b",
     license='MIT',
     python_requires='>=3.8',
     install_requires=[]
